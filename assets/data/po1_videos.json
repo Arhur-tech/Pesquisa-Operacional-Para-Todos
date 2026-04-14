@@ -110,7 +110,12 @@
     "title": "Aula 07: Dualidade",
     "description": "Teoria da dualidade e seus teoremas.",
     "topics": "Dualidade, Teoria da Dualidade, Teoremas da Dualidade, TFC.",
-    "slidesUrl": "../assets/slides/po1/dualidade.pptx",
+    "slidesUrl": [
+      {
+        "title": "Slides - Dualidade",
+        "url": "../assets/slides/po1/dualidade.pptx"
+        }
+      ],
     "subVideos": [
       {
         "title": "Dualidade pt.1",
